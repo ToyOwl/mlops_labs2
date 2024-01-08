@@ -9,7 +9,7 @@
 Follow the internal [Readme](lab03/readme.md)
 
 ## Lab4 Unigoto keys CI pipeline:
-Follow the internal [Readme](lab04/readme.md
+Laboratory work as a solution to the Unitogo hackathon problem
 
 ## Author:
 - Edward Tuomas ([ToyOwl](https://github.com/ToyOwl))
