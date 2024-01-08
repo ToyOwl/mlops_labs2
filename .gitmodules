@@ -1,0 +1,3 @@
+[submodule "lab04/hackathon_unigoto"]
+	path = lab04/hackathon_unigoto
+	url = git@github.com:ToyOwl/hackathon_unigoto.git
