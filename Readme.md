@@ -8,5 +8,8 @@
 ## Lab3 Workflow management (xFlow):
 Follow the internal [Readme](lab03/readme.md)
 
+## Lab4 Unigoto keys CI pipeline:
+Follow the internal [Readme](lab04/readme.md
+
 ## Author:
 - Edward Tuomas ([ToyOwl](https://github.com/ToyOwl))
